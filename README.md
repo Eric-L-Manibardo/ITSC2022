@@ -7,9 +7,14 @@ A proper traffic characterization allows for operational measures towards handli
 
 #### If you use any dataset in your work, please cite the following reference:
 ###### Reference:
-NOT AVAILABLE YET
-###### BibTex:
-```
-NOT AVAILABLE YET
+@inproceedings{manibardo2022sense,
+  title={What to Sense When There is no Sensor: Ex-novo Traffic Flow Estimation for Non-Sensed Roads},
+  author={Manibardo, Eric L and La{\~n}a, Ibai and Del Ser, Javier},
+  booktitle={2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)},
+  pages={1668--1675},
+  year={2022},
+  organization={IEEE}
+}
+
 ```
 #### Note: These datasets should be used for research only.
